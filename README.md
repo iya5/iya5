@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  Python, PHP, MySQL, Apache
+  Python, PHP, MySQL, Apache, Figma
 </p>
