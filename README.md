@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpwNWJ2b2pqbjAzaHFkZ2l3cWxwcThhbXlxbndqYzZhZ3R5djE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyDMX1pVgdHl6/giphy.gif" alt="Studio Ghibli" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVxN2MxMTA3dXdudXVtcXUya3dkazU5dzdraHNiY29ieWpwNGJiNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7kpFDc1mYqDnD3hh1/giphy.gif" alt="Studio Ghibli" width="500">
 </p>
 <p align="center">
-hello
+Ponyo, ponyo, ponyo, saka na no ko
 </p>
